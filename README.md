@@ -1,2 +1,2 @@
 # libjpeg_turbo_backup
-这是libjpeg_turbo的amrv7a的编译Android可用的动态库，个人备份
+这是libjpeg_turbo1.5.3的amrv7a的编译Android可用的动态库，个人备份
